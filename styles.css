@@ -2,7 +2,7 @@
 
 p{
     width: 200px;
-    background-color: purple;
+    background-color:rgb(128, 0, 128);
     font-size: 20px;
     padding: 10px;
     text-decoration: underline;
@@ -10,5 +10,5 @@ p{
 
     border-style: solid;
     border-left-width:5px;
-    border-left-color: green;
+    border-left-color: rgb(0, 128, 0);
 }
