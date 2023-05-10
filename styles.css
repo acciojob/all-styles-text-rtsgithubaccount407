@@ -1,6 +1,6 @@
 /* Your CSS Code here. */
 
-p{
+/* p{
     width: 200px;
     background-color:rgb(128, 0, 128);
     font-size: 20px;
@@ -8,7 +8,25 @@ p{
     text-decoration: underline;
     color: rgb(255, 254, 254);
 
-    border-style: solid;
     border-left-width:5px;
-    border-left-color: rgb(0, 128, 0);
+    border-left-color: rgb(0, 128, 0); */
+
+.main{
+	background-color:purple;
+	width:200px;
+	
+   
+	
 }
+#heading{
+	padding:10px;
+	font-size:20px;
+	color:white;
+	text-decoration:underline;
+
+	 border-style: solid;
+	border-left-width:5px;
+	border-left-color:green;
+	
+}
+
