@@ -14,19 +14,20 @@
 div.main{
 	background-color:purple;
 	width:200px;
+	border-left:5px solid green;
+	padding:10px;
 	
    
 	
 }
 #heading{
-	padding:10px;
+	
 	font-size:20px;
 	color:white;
 	text-decoration:underline;
 
-	 border-style: solid;
-	border-left-width:5px;
-	border-left-color:green;
+	
+
 	
 }
 
